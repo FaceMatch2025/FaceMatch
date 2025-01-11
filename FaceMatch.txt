@@ -1,5 +1,4 @@
 !pip install deepface
-
 # Import necessary libraries
 from IPython import get_ipython
 from IPython.display import display, Image # Import Image for displaying thumbs up/down
@@ -16,8 +15,23 @@ from deepface import DeepFace
 
 
 
+
+
+
+
+
+
+
+
 # Mount Google Drive to access files
 drive.mount('/content/drive', force_remount=True)
+
+
+
+
+
+
+
 
 
 
