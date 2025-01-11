@@ -11,8 +11,21 @@ from datetime import datetime
 import matplotlib.pyplot as plt
 from deepface import DeepFace
 
+
+
+
+
+
 # Mount Google Drive to access files
 drive.mount('/content/drive', force_remount=True)
+
+
+
+
+
+
+
+
 
 # Define paths for database, captured image, and thumbs up/down images
 database_path = '/content/drive/MyDrive/proim/trombi'  # Path to the database of faces
