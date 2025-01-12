@@ -17,13 +17,12 @@ This project is implemented in Google Colab and requires access to the associate
 
 **Prerequisites:**
 
-You have to log in on google colab and on google drive with the account provided and not your personal one.
 - Google Colab account : projetinfo2025@gmail.com	password : INFOPROJET2025!
 - Google Drive account with access to the shared project folder (same account as the Google Colab one)
 
 **Steps:**
 
-1. **Access Google Colab:** You have to go on the file FaceMatchFinal.ipynb file in the github and click on the "open in colab" file. You will then have access to the whole code divided in three cells.
+1. **Access Google Colab:** You have to click on the FaceMatchFinal.ipynb file in the github and click on "open in colab". You will then have access to the whole code divided in three cells. WARNING : You have to be log in on google colab and on google drive with the account provided and not your personal one.
    
 2. **Install DeepFace:** Run the first code cell that installs the DeepFace library. This library is used for face recognition tasks.
    
