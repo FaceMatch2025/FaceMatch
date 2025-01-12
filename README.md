@@ -17,6 +17,7 @@ This project is implemented in Google Colab and requires access to the associate
 
 **Prerequisites:**
 
+You have to log in on google colab and on google drive with the account provided and not your personal one.
 - Google Colab account : projetinfo2025@gmail.com	password : INFOPROJET2025!
 - Google Drive account with access to the shared project folder (same account as the Google Colab one)
 
@@ -43,3 +44,5 @@ This project is implemented in Google Colab and requires access to the associate
 
 - The database of faces is stored in the Google Drive folder specified by '/content/drive/MyDrive/proim/trombi'.
 - The captured image is located at the path specified by '/content/drive/MyDrive/proim/cam/imagecam.jpg'.
+
+## In case of problems or anything, please send us an email.
