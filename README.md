@@ -22,11 +22,11 @@ This project is implemented in Google Colab and requires access to the associate
 
 **Steps:**
 
-1. **Access Google Colab:** You have to log in in Google Colab directly with the projetinfo2025@gmail.com account. Then copy the code given in the FaceMatch.txt
+1. **Access Google Colab:** You have to go on the file FaceMatchFinal.ipynb file in the github and click on the "open in colab" file. You will then have access to the whole code divided in three cells.
    
-2. **Install DeepFace:** Run the code cell that installs the DeepFace library. This library is used for face recognition tasks.
+2. **Install DeepFace:** Run the first code cell that installs the DeepFace library. This library is used for face recognition tasks.
    
-3. **Mount Google Drive:** Run the code cell that mounts your Google Drive to the Colab environment. This allows the notebook to access the database images and captured image.
+3. **Mount Google Drive:** Run the second code cell that mounts your Google Drive to the Colab environment. This allows the notebook to access the database images and captured image.
    
 4. **Test the code:** Run the third cell in order to get your result, if a match is found, the code displays the matched person's name, age, and a thumbs-up or thumbs-down image based on their age. If no match is found, a message is displayed, and the captured image is shown.
    
